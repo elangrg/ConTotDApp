@@ -16,5 +16,17 @@ namespace ConTotDApp
 
 
         }
+
+
+         static void Demo(string[] args)
+        {
+
+            Console.WriteLine("New Method ...");
+
+
+
+        }
+
+
     }
 }
